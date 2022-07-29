@@ -3,8 +3,8 @@
 
 Something that I will fill in a bit later.
 
-Coursework In: Data Structure & Algorithms / OOP / JAVA / C++ 
-Upcoming Coursework In: Python / Flutter / Machine Learning
+- Coursework In: Data Structure & Algorithms / OOP / JAVA / C++ 
+- Upcoming Coursework In: Python / Flutter / Machine Learning
 
 - 📫 How to reach me: elimorse15@gmail.com 
 - 😄 Pronouns: He/They 
