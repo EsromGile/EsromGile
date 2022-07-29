@@ -1,5 +1,5 @@
 
-![I am a software engineering student at the University of Central Oklahoma.](https://github.com/EsromGile/EsromGile/blob/main/eli-morse-banner.png)
+![I am a software engineering student at the University of Central Oklahoma.](https://github.com/EsromGile/EsromGile/blob/main/eli-morse-banner-2.png)
 
 #### I am a software engineering student at the University of Central Oklahoma.
 
