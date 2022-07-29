@@ -2,7 +2,7 @@
 ![I am a software engineering student at the University of Central Oklahoma.](https://github.com/EsromGile/EsromGile/blob/main/eli-morse-banner-3.png)
 
 ## About Me
-I really enjoy working on new projects and finding ways to improve my existing skillset. Continual learning and creating is a large part of my life purpose and goals. 
+I really enjoy working on new projects and finding ways to improve my existing skillset. Continual learning and creating is a large part of my life purpose and goals. I am set to graduate May 2023. For any inquiries, please contact me at the email below. 
 
 ## Course Work
 - Previous: Data Structure & Algorithms / OOP / JAVA / C++ / SQL / JS / HTML / CSS
