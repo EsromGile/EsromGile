@@ -1,6 +1,7 @@
-Eli Morse
-#### I am a software engineering student at the University of Central Oklahoma.
+
 ![I am a software engineering student at the University of Central Oklahoma.](https://github.com/EsromGile/EsromGile/blob/main/eli-morse-banner.png)
+
+#### I am a software engineering student at the University of Central Oklahoma.
 
 Something that I will fill in a bit later.
 
