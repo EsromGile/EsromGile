@@ -1,11 +1,10 @@
 
 ![I am a software engineering student at the University of Central Oklahoma.](https://github.com/EsromGile/EsromGile/blob/main/eli-morse-banner-3.png)
 
-#### I am a software engineering student at the University of Central Oklahoma.
-
 Something that I will fill in a bit later.
 
-Skills: JAVA / C++ / JS / HTML / CSS
+Coursework In: Data Structure & Algorithms / OOP / JAVA / C++ 
+Upcoming Coursework In: Python / Flutter / Machine Learning
 
 - 📫 How to reach me: elimorse15@gmail.com 
 - 😄 Pronouns: He/They 
