@@ -1,0 +1,3 @@
+function getPassion() {
+    return "Learning";
+}
